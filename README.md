@@ -1,2 +1,2 @@
 # UDMF
-The full code for training and analysis will be released after the paper is accepted.
+Checkpoints will be released after accept.
